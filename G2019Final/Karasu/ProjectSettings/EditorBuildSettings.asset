@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/main men\xFA/main.unity"
+    guid: 605468f53bb3c4943ae1a827000dc1a8
+  - enabled: 1
+    path: Assets/JuegoSubmarino/JuegoSubmarino.unity
+    guid: 71b24ed6e01a7ec498ccdb0277a3c363
+  - enabled: 1
+    path: Assets/Diary/scenes/Diary.unity
+    guid: 5a5a2d23b053c734cad6c221749e1077
+  - enabled: 1
+    path: Assets/Hentai/scenes/Hentai scene.unity
+    guid: 17febc6cf774df24cb8bf3fe6ef31951
+  - enabled: 1
+    path: Assets/click negro/Scenes/click negro.unity
+    guid: 5fa669317f221904dba910d23b2907a7
+  - enabled: 1
+    path: Assets/JuegoMario/NivelMario.unity
+    guid: c526670b5a320c449b6a12bfb1e1bf09
+  - enabled: 1
+    path: Assets/JuegoParejas/JuegoParejas.unity
+    guid: 01a0e642cf12d9041b54fe0eb173ae40
+  m_configObjects: {}
